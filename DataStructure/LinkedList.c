@@ -354,7 +354,7 @@ void deleteLL(struct Node** head){
 }
 
 void polyLL(){
-	polyAddtion(polyOne,polyTwo,polyAdd);
+	polyAddition(polyOne,polyTwo,polyAdd);
 }
 
 void polyAddition(struct NodeP* polyOne,struct NodeP* polyTwo,struct NodeP* polyAdd){
